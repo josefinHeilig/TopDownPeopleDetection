@@ -4,7 +4,7 @@ People silhouettes are detected as contours, with feature extraction like height
 ![empathySwarm_PeopleDetectionSetup](https://user-images.githubusercontent.com/30211868/130604467-ea2b6a8b-fb76-444e-aabd-af22419944c6.jpg)
 
 
-This code has been developed by [Katrin Hochschuh | Hochschuh&Donovan](https://hochschuh-donovan.com) as part of the project [Empathy Swarm](https://hochschuh-donovan.com/portfolio/empathy-swarm/) before and as part of [»The Intelligent Museum«](#the-intelligent-museum).
+This code has been developed by [Katrin Hochschuh | Hochschuh&Donovan](https://hochschuh-donovan.com) as part of the project [Empathy Swarm](https://hochschuh-donovan.com/portfolio/empathy-swarm/) before and as part of [»The Intelligent Museum«](#the-intelligent-museum) at [ZKM | Hertz-Lab](https://zkm.de/en/about-the-zkm/organization/hertz-lab). 
 
 Copyright (c) 2021 Katrin Hochschuh | Hochschuh&Donovan.
 
